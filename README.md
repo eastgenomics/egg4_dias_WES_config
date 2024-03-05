@@ -1,4 +1,4 @@
-# dias_TWE_config_GRCh37_v3.1.0.json
+# dias_TWE_config_GRCh37_v3.0.3.json
 
 This repo contains a JSON config file which is used with eggd_dias_batch to specify inputs for running the Dias pipeline for TWE data.
 
@@ -14,8 +14,8 @@ The config specifies app IDs and workflow IDs at the top, followed by a `referen
 
 ## Versions of workflows and dynamic files in the config
 Workflows:
-* Dias reports: **dias_reports_v2.2.0**
-    * DNAnexus workflow ID: `workflow-GgV037Q4z4VXVqz0j10Q147p`
+* Dias reports: **dias_reports_v2.1.1**
+    * DNAnexus workflow ID: ``
 
 Dynamic files:
 | File      | File name | DNAnexus file ID |
